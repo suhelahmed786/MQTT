@@ -1,0 +1,17 @@
+C:\Users\INSUAHM\source\repos\Mqtt_Application\MqttMosquittoBrokerConsole\bin\Debug\net5.0\MqttMosquittoBrokerConsole.exe
+C:\Users\INSUAHM\source\repos\Mqtt_Application\MqttMosquittoBrokerConsole\bin\Debug\net5.0\MqttMosquittoBrokerConsole.dll
+C:\Users\INSUAHM\source\repos\Mqtt_Application\MqttMosquittoBrokerConsole\bin\Debug\net5.0\MQTTnet.dll
+C:\Users\INSUAHM\source\repos\Mqtt_Application\MqttMosquittoBrokerConsole\obj\Debug\net5.0\MqttMosquittoBrokerConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INSUAHM\source\repos\Mqtt_Application\MqttMosquittoBrokerConsole\obj\Debug\net5.0\MqttMosquittoBrokerConsole.AssemblyInfoInputs.cache
+C:\Users\INSUAHM\source\repos\Mqtt_Application\MqttMosquittoBrokerConsole\obj\Debug\net5.0\MqttMosquittoBrokerConsole.AssemblyInfo.cs
+C:\Users\INSUAHM\source\repos\Mqtt_Application\MqttMosquittoBrokerConsole\obj\Debug\net5.0\MqttMosquittoBrokerConsole.csproj.CoreCompileInputs.cache
+C:\Users\INSUAHM\source\repos\Mqtt_Application\MqttMosquittoBrokerConsole\obj\Debug\net5.0\MqttMosquittoBrokerConsole.csproj.CopyComplete
+C:\Users\INSUAHM\source\repos\Mqtt_Application\MqttMosquittoBrokerConsole\obj\Debug\net5.0\MqttMosquittoBrokerConsole.dll
+C:\Users\INSUAHM\source\repos\Mqtt_Application\MqttMosquittoBrokerConsole\obj\Debug\net5.0\ref\MqttMosquittoBrokerConsole.dll
+C:\Users\INSUAHM\source\repos\Mqtt_Application\MqttMosquittoBrokerConsole\obj\Debug\net5.0\MqttMosquittoBrokerConsole.pdb
+C:\Users\INSUAHM\source\repos\Mqtt_Application\MqttMosquittoBrokerConsole\bin\Debug\net5.0\MqttMosquittoBrokerConsole.deps.json
+C:\Users\INSUAHM\source\repos\Mqtt_Application\MqttMosquittoBrokerConsole\bin\Debug\net5.0\MqttMosquittoBrokerConsole.runtimeconfig.json
+C:\Users\INSUAHM\source\repos\Mqtt_Application\MqttMosquittoBrokerConsole\bin\Debug\net5.0\MqttMosquittoBrokerConsole.runtimeconfig.dev.json
+C:\Users\INSUAHM\source\repos\Mqtt_Application\MqttMosquittoBrokerConsole\bin\Debug\net5.0\ref\MqttMosquittoBrokerConsole.dll
+C:\Users\INSUAHM\source\repos\Mqtt_Application\MqttMosquittoBrokerConsole\bin\Debug\net5.0\MqttMosquittoBrokerConsole.pdb
+C:\Users\INSUAHM\source\repos\Mqtt_Application\MqttMosquittoBrokerConsole\obj\Debug\net5.0\MqttMosquittoBrokerConsole.genruntimeconfig.cache

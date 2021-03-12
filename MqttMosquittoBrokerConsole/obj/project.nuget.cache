@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2l9xQrCa14fsSUoKdm77PEFJAjRCKQ6PZvSLVlmHiVO2fx3dC4pIfb0h6qryBdnV40pj9pfEUL9MzRVIaxcHyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\INSUAHM\\source\\repos\\Mqtt_Application\\MqttMosquittoBrokerConsole\\MqttMosquittoBrokerConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\INSUAHM\\.nuget\\packages\\mqttnet\\3.0.15\\mqttnet.3.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

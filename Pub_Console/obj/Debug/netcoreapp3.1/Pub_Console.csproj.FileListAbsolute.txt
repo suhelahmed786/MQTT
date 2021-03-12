@@ -1,0 +1,13 @@
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Pub_Console\bin\Debug\netcoreapp3.1\Pub_Console.exe
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Pub_Console\bin\Debug\netcoreapp3.1\Pub_Console.deps.json
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Pub_Console\bin\Debug\netcoreapp3.1\Pub_Console.runtimeconfig.json
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Pub_Console\bin\Debug\netcoreapp3.1\Pub_Console.runtimeconfig.dev.json
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Pub_Console\bin\Debug\netcoreapp3.1\Pub_Console.dll
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Pub_Console\bin\Debug\netcoreapp3.1\Pub_Console.pdb
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Pub_Console\obj\Debug\netcoreapp3.1\Pub_Console.csprojAssemblyReference.cache
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Pub_Console\obj\Debug\netcoreapp3.1\Pub_Console.AssemblyInfoInputs.cache
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Pub_Console\obj\Debug\netcoreapp3.1\Pub_Console.AssemblyInfo.cs
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Pub_Console\obj\Debug\netcoreapp3.1\Pub_Console.csproj.CoreCompileInputs.cache
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Pub_Console\obj\Debug\netcoreapp3.1\Pub_Console.dll
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Pub_Console\obj\Debug\netcoreapp3.1\Pub_Console.pdb
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Pub_Console\obj\Debug\netcoreapp3.1\Pub_Console.genruntimeconfig.cache

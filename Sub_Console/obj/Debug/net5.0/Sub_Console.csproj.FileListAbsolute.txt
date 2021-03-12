@@ -1,0 +1,17 @@
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Sub_Console\bin\Debug\net5.0\Sub_Console.exe
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Sub_Console\bin\Debug\net5.0\Sub_Console.deps.json
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Sub_Console\bin\Debug\net5.0\Sub_Console.runtimeconfig.json
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Sub_Console\bin\Debug\net5.0\Sub_Console.runtimeconfig.dev.json
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Sub_Console\bin\Debug\net5.0\Sub_Console.dll
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Sub_Console\bin\Debug\net5.0\ref\Sub_Console.dll
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Sub_Console\bin\Debug\net5.0\Sub_Console.pdb
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Sub_Console\bin\Debug\net5.0\MQTTnet.dll
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Sub_Console\obj\Debug\net5.0\Sub_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Sub_Console\obj\Debug\net5.0\Sub_Console.AssemblyInfoInputs.cache
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Sub_Console\obj\Debug\net5.0\Sub_Console.AssemblyInfo.cs
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Sub_Console\obj\Debug\net5.0\Sub_Console.csproj.CoreCompileInputs.cache
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Sub_Console\obj\Debug\net5.0\Sub_Console.csproj.CopyComplete
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Sub_Console\obj\Debug\net5.0\Sub_Console.dll
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Sub_Console\obj\Debug\net5.0\ref\Sub_Console.dll
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Sub_Console\obj\Debug\net5.0\Sub_Console.pdb
+C:\Users\INSUAHM\source\repos\Mqtt_Application\Sub_Console\obj\Debug\net5.0\Sub_Console.genruntimeconfig.cache

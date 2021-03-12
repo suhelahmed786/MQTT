@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lGheRlSuBdM4yLZe0ZQcxdrdotC9Xr6kdQ5xh26zzUVEz7WLwRzmY0YrraCOrX1+lj9lWToJDkjlkXrqtbIW8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\INSUAHM\\source\\repos\\Mqtt_Application\\Sub_Console\\Sub_Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\INSUAHM\\.nuget\\packages\\mqttnet\\3.0.15\\mqttnet.3.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
